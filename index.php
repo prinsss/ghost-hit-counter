@@ -2,11 +2,11 @@
 /**
  * @Author: printempw
  * @Date:   2016-01-31 17:08:29
- * @Last Modified by:   prpr
- * @Last Modified time: 2016-04-24 09:47:09
+ * @Last Modified by:   printempw
+ * @Last Modified time: 2016-04-24 12:05:58
  */
 
-require "bootstrap.php";
+require "init.php";
 
 if (isset($_GET['action'])) {
     // Simple SQL injection prevention
