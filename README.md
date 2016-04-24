@@ -27,3 +27,9 @@ Get popular slugs:
 ```
 index.php?action=order&limit={{limit}}
 ```
+
+### Migrations
+
+Migrate from WP-PostViews to Ghost Hit Counter
+
+https://gist.github.com/printempw/3a72cf916a6689c7a665
